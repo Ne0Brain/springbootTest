@@ -1,4 +1,4 @@
-How to run this app
+How to run this app 1
 1.cd this folder
 2. command : ./mvnw spring-boot:run
 
